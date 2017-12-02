@@ -1,4 +1,4 @@
-package commons;
+package org.kj6682.commons;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;

@@ -1,4 +1,4 @@
-package commons;
+package org.kj6682.commons;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.SerializerProvider;
